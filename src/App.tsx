@@ -1,10 +1,10 @@
-import { Playground } from "./Playground";
-import { TodoList } from "./TodoList";
+import { TodoPractise } from "./TodoPractise";
+
 
 function App() {
   return (
     <div className="App">
-      <Playground/>
+      <TodoPractise/>
     </div>
   );
 }
